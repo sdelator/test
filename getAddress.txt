@@ -1,2 +1,3 @@
-input address home:
-work address:
+“May I have your first name please Mr. _____”?
+
+“And, for the account, if I may have your full, current address and a primary telephone number as well as a secondary number if you wish along with your date of birth”
